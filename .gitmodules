@@ -1,0 +1,3 @@
+[submodule "lib/audits"]
+	path = lib/audits
+	url = https://github.com/redacted-cartel/audits/
