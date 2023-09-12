@@ -1,6 +1,5 @@
-> [Hidden Hand Documentation](https://docs.redacted.finance/products/hidden-hand)
 <div align="center">
-<img  width="120" padding="0 0 10px" alt="Hidden Hand Logo" src="https://hiddenhand.finance/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FHH-Wordmark-White.86a0d1c9.png&w=384&q=75" />
+<img  width="250" padding="0 0 10px" alt="Hidden Hand Logo" src="https://hiddenhand.finance/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhh-wordmark-color-transbg-72dpi.8519e633.png&w=256&q=75" />
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -13,6 +12,9 @@
 
 # 🔎 Audits
 - [SPEARBIT Hidden Hand v2 Audit Report](https://github.com/redacted-cartel/audits/blob/master/hidden-hand/v2/spearbit.pdf)
+# 📜 Documentation
+
+- [Hidden Hand Documentation](https://docs.redacted.finance/products/hidden-hand)
 
 # 🛠️ Setup
 Make sure you have the following installed:
