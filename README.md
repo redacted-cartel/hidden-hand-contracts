@@ -27,8 +27,8 @@ Clone the repo and run the following commands:
 3. Install global and local dependencies
    `npm i -g typescript && npm i`
 4. Create a `.env` file with the same variables as `.env.example` and set them
-5. Compile contracts and run tests to ensure the project is set up correctly
-   `npx hardhat compile && npx hardhat test`
+5. Compile contracts with 
+   `npx hardhat compile`
 
 # 📃 Contracts Overview
 
