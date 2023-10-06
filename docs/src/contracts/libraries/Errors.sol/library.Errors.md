@@ -1,4 +1,6 @@
 # Errors
+[Git Source](https://github.com/redacted-cartel/hidden-hand-contracts/blob/0eba12837f1598e3ade9a3211813a72a1e056947/contracts/libraries/Errors.sol)
+
 
 ## Errors
 ### InvalidMaxPeriod
